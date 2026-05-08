@@ -142,4 +142,4 @@ python analyze_incident.py
 
 # Author
 
-Andrei Golubev
+Andrei Golubev (AIGolubev)
